@@ -1,9 +1,19 @@
 <div id="" align="center">
 <!--   <img src="https://github.com/RenPen3/renpen3/blob/main/assets/Banner-7.jpg?raw=true" width="100%"/> -->
 </div>
-<h1 align="center">Hello! I'm Rene D Perez &#128526</h1>
-<h3 align="center">An Email Developer/ Web Developer based in Los Angeles, CA</h3>
-<h4 align="left">I'm an experienced email developer/ web developer with a strong background in creating responsive HTML table emails and websites from scratch. I'm skilled in various design tools such as Adobe Illustrator, and Figma as well as platforms like WordPress, Bootstrap, Sass, Google Analytics, GitHub, Git, and ConvertKit. In addition to my experience, I am also passionate about art, music, travel, fitness, learning diverse cultures, and exploring new places. </h4>
+<h1 align="center">Hi 👋, I'm Louie</h1>
+<h3 align="center">An Email Developer/ Web Developer</h3>
+<h4 align="left">I'm an experienced email developer/ web developer with a strong background in creating responsive HTML table emails and websites. I'm skilled in various design tools such as Adobe Photoshop, and Figma as well as platforms like WordPress, Bootstrap and Google Analytics. In addition to my experience, I am also passionate about the culinary arts, music and crypto/defi/web 3.0.</h4>
+
+- 🔭 I’m currently working on Working apart of specialized team of insurance experts and property damage adjusters to develop, teach and train a proprietary A.I. model how to interpret visual web data. Also, a building a website for a local small business owner client as well as other email projects also.**
+
+- 🌱 I’m currently learning and increasing my skillset around Shopify and A.I. learning models.
+
+- 👯 I’m looking to collaborate on HTML Emails and Web Development projects.
+
+- 👨‍💻 All of my projects are available at [https://loucodes.dev/email.html](https://loucodes.dev/email.html)
+
+- 📫 How to reach me **lou@loucodes.dev**
 
 <hr>
 
@@ -39,7 +49,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Osculant Origins Newsletter Email</h3>
+				<h3 align="center">Xbox Promotional Email</h3>
 				<div align="center">  
 					<a href='https://osculant-origins.netlify.app/' target="_blank">
 						<img src="https://i.ibb.co/jhHxDP3/xbox-email-pic.png" alt="xbox-email-pic" border="0" width="300px" class="img-fluid my-3" />
@@ -54,14 +64,14 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p>Tools used: <strong>MJML</strong></p>
-          <p align="left">I designed and developed the Osculant Origins newsletter template to combine elegance with functionality. Its sleek layout, striking visuals, and intuitive call-to-actions are crafted to ensure your messages not only grab attention but also drive engagement with your audience effectively.</p>
+					<p>Tools used: <strong>Figma & MJML</strong></p>
+          <p align="left">I developed the Xbox promotional email template to deliver a simple and captivating experience that perfectly reflects the brand’s essence. With its simple design, compelling placement of visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
 				</div>
 			</td>
 			<td width="50%">
 			<br>
 				<br>
-			<h3 align="center">Sail Eternity Promotional Email</h3>
+			<h3 align="center">James Beard Newsletter Email</h3>
 				<div align="center" >  
 					<a href='https://sail-eternity.netlify.app/' target="_blank">
 						<img src="https://i.ibb.co/pn09k7n/James-Beard-Capture.png" alt="James-Beard-Capture" border="0" width="275px" class="img-fluid my-3" />
@@ -76,9 +86,11 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p>Tools used: <strong>MJML</strong></p>
-					<p align="left">I developed the Sail Eternity promotional email template to deliver a sleek, captivating experience that perfectly reflects the brand’s essence. With its elegant design, compelling visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
+					 <p>Tools used: <strong>Figma & MJML</strong></p>
+					<p align="left">I designed and developed the Resy newsletter template to combine simplicity and functionality. Its sleek layout, striking visuals, and intuitive call-to-actions are crafted to ensure your messages not only grab attention but also drive engagement with your audience effectively.</p>
 </div>
         </tr>
+
+ 
 
 
