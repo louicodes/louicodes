@@ -51,16 +51,16 @@
 			<td width="50%">
 				<h3 align="center">Xbox Promotional Email</h3>
 				<div align="center">  
-					<a href='https://osculant-origins.netlify.app/' target="_blank">
+					<a href='https://loucodes.dev/email/xboxpreview.html' target="_blank">
 						<img src="https://i.ibb.co/jhHxDP3/xbox-email-pic.png" alt="xbox-email-pic" border="0" width="300px" class="img-fluid my-3" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/RenPen3/osculantOrigins_MJML" target="_blank">
+						<a href="https://github.com/louicodes/xboxpromoemail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://osculant-origins.netlify.app/" target="_blank">
+						<a href="https://loucodes.dev/email/xboxpreview.html" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
@@ -73,16 +73,16 @@
 				<br>
 			<h3 align="center">James Beard Newsletter Email</h3>
 				<div align="center" >  
-					<a href='https://sail-eternity.netlify.app/' target="_blank">
+					<a href='https://loucodes.dev/email/resyemail.html/' target="_blank">
 						<img src="https://i.ibb.co/pn09k7n/James-Beard-Capture.png" alt="James-Beard-Capture" border="0" width="275px" class="img-fluid my-3" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="#" target="_blank">
+						<a href="https://github.com/louicodes/resyawardemail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://sail-eternity.netlify.app/" target="_blank">
+						<a href="https://loucodes.dev/email/resyemail.html" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
